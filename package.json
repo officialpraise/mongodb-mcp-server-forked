@@ -36,7 +36,7 @@
   "devDependencies": {
     "@eslint/js": "^9.24.0",
     "@jest/globals": "^30.0.0",
-    "@modelcontextprotocol/inspector": "^0.16.1",
+    "@modelcontextprotocol/inspector": "^0.17.0",
     "@redocly/cli": "^2.0.7",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.2.1",
